@@ -1,0 +1,4 @@
+notebook>=4
+ipykernel
+matplotlib
+seaborn
